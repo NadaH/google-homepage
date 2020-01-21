@@ -1,0 +1,43 @@
+/*navbar*/
+.navbar .navbar-nav .login-btn {
+    background-color: #0c4e95;
+    border-radius: 3px;
+    color: #fff !important;
+}
+
+/*landing page*/
+.landing-page figure img {
+    display: block;
+    margin: auto;
+}
+.landing-page figure{
+    padding-top: 100px;
+}
+.landing-page .btn{
+    background-color: #f3f3f3;
+    color: #a2a2a2
+}
+/*search bar*/
+.search-form{
+    position: relative;
+}
+.search-form .btn{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(0,-50%);
+    color: #a2a2a2;
+    background-color: transparent;
+}
+.search-form input{
+border-radius: 30px;
+border: none;
+box-shadow:1px 1px 6px 2px #dcdbdb;
+}
+/*footer*/
+footer .nav-left {}
+
+footer .footer-bar{
+    background-color: #f3f3f3;
+    border-top: 1px solid #e4e4e4;
+}
